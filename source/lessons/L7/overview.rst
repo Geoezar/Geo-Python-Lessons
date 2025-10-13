@@ -17,16 +17,16 @@ After this weeks lesson your should be able to:
 Lesson videos
 -------------
 
-.. .. admonition:: Lesson 7.1 - Plotting in Python using pandas/Matplotlib
-..     :class: admonition-youtube
-..
-..     ..  youtube:: yNLo_sX-YQs
-..
+.. admonition:: Lesson 7.1 - Plotting in Python using pandas/Matplotlib
+    :class: admonition-youtube
+
+    ..  youtube:: nZ1s8t9xm0Q
+
 ..     Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
-..
-.. .. admonition:: Lesson 7.2 - Creating subplots with pandas/Matplotlib
-..     :class: admonition-youtube
-.. 
-..     ..  youtube:: I6R0J6fi2PM
-.. 
+
+.. admonition:: Lesson 7.2 - Creating subplots with pandas/Matplotlib
+    :class: admonition-youtube
+ 
+    ..  youtube:: 8LkKgIcn1pI
+ 
 ..     Dave Whipp & Kamyar Hasanzadeh, University of Helsinki @ `Geo-Python channel on Youtube <https://www.youtube.com/channel/UCQ1_1hZ0A1Vic2zmWE56s2A>`_.
