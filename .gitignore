@@ -4,3 +4,13 @@ build
 .ipynb_checkpoints
 .nbgrader.log
 venv
+.venv
+.env
+.env.example
+L1
+L2
+L3
+L4
+L5
+L6
+L7
